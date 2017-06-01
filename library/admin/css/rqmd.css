@@ -1,0 +1,61 @@
+/*新增门店页面css*/
+.div_h4{margin-left: 20px;}
+.select_box{/*margin-left: 50px;margin-top: 20px;font-family: Microsoft Yahei;float: left;*/}
+.div_bb{margin-left: 50px;margin-top: 68px;font-family: Microsoft Yahei;}
+.div_bb input{width: 178px;height: 30px;padding: 0 5px;}
+.div_cc{margin-left: 35px;margin-top: 20px;font-family: Microsoft Yahei;}
+.div_cc input{width: 88px;height: 30px;padding: 0 5px;}
+.div_dd{margin-left: 50px;margin-top: 20px;font-family: Microsoft Yahei;}
+.div_dd input{width: 88px;height: 30px;padding: 0 5px;}
+.div_ee{margin-left: 50px;margin-top: 20px;font-family: Microsoft Yahei;}
+.div_ee input{width: 328px;height: 30px;padding: 0 5px;}
+.div_ff{margin-left: 20px;margin-top: 20px;font-family: Microsoft Yahei;}
+.ff_a1{text-decoration: none;display: block;background-color: #148cd7;width: 60px;height:25px;font-family: Simhei;font-size: 14px;text-align: center;padding-top: 8px;float: left;margin-right: 10px;}
+.div_ff .ff_a1{font-family: Microsoft Yahei;color:#FFF;}
+.ff_a2{text-decoration: none;display: block;border: 1px solid #d3d3d3;width: 58px;height: 23px;font-family: Simhei;font-size: 14px;text-align: center;padding-top: 8px;float: left;}
+.div_ff .ff_a2{font-family: Microsoft Yahei;color:#000;}
+div label{font-size: 14px;}
+.rq_demo input{border: 1px solid #b7b7b7}
+
+.label_option{float:left;margin-top:5px;margin-left:50px;}
+
+
+/*门店编辑页面css*/
+
+.mendian_demo input{border: 1px solid #b7b7b7; padding:0 5px}
+.div_tabel1{font-size:12px;border-top:5px solid #148cd7; text-align:center}
+.div_tabel1 tr th{font-family:Microsoft Yahei;font-size:12px;font-weight:bold; background:#f5f5f5;line-height:30px;}
+.mendian_p{display: block;background-color: #148cd7;width: 86px;height: 25px;color: white;font-size: 14px;font-weight: bold;text-align: center;padding-top: 5px;font-family:Microsoft Yahei;}
+.div_tabel_aa{margin-top: 20px;}
+.div_tabel_bb{margin-top: 20px;}
+.div_tabel2{font-size: 12px;border-color: #F5F5F5;}
+.div_tabel1 tr td{text-align: center;border:1px solid #b7b7b7;}
+
+.bgxiala{padding:0px;}
+.mendian_demo .text_aa1{width:178px;height:28px; line-height:28px;float:left;}
+.ae_button{ display:block;width:33px; background:url(../images/kj_03.png) no-repeat 8px center #148cd7;height:23px;padding-left:24px;;float:left;margin-left:10px;padding-top:7px;}
+
+
+.bj_mask{border:1px solid #b7b7b7;width:500px;height:350px;border-radius:5px; position:absolute; top:0; left:0; background:#fff; z-index:100}
+.bj_bj{font-size:14px;margin-top:10px;padding-bottom:8px;border-bottom:1px solid #b7b7b7;padding-left:20px;}
+.bj_img{float:right;padding-right:10px;}
+.xiala_aa_a{float:left;font-weight:800;margin-left:50px;margin-top:30px;}
+.xiala_aa_b{float:left;margin-top:25px;margin-left:5px;}
+.xiala_aa_c{float:left;margin-top:25px;}
+.bj_mask input{border:1px solid #b7b7b7;}
+.bj_mask label{font-size:12px;}
+.dm_aa{margin-left:50px;margin-top:55px;font-family:Microsoft Yahei;font-weight:bold;}
+.dm_aa input{width:178px;height:30px;margin-top:15px;padding:0 5px;}
+.dm_bb{margin-left:38px;margin-top:15px;font-family:Microsoft Yahei;font-weight:bold;}
+.dm_bb input{width:78px;height:30px;padding:0 5px;}
+.dm_cc{margin-left:50px;margin-top:15px;font-family:Microsoft Yahei;font-weight:bold;}
+.dm_cc input{width:98px;height:30px;padding:0 5px;}
+.dm_dd{margin-top:15px;font-family:Microsoft Yahei;font-weight:bold;padding-bottom:20px;border-bottom:1px solid #b7b7b7;padding-left:50px;margin-left:-50px;}
+.dm_dd input{width:328px;height:30px;padding:0 5px;}
+.dm_ee{ float:right; margin-right:20px}
+.dm_ee a{text-decoration: none;background-color: #148cd7; border:1px solid #148cd7;width:55px;height:28px; line-height:28px;text-align: center;font-family: Microsoft Yahei;float:left;margin-top:10px;; color:#fff;font-size:12px;font-weight:100;}
+.dm_ee a.dm_ee_b{border: 1px solid #b7b7b7;margin-left:10px; background:#fff;color:#000;font-family: Microsoft Yahei;font-size:12px;font-weight:100;}
+.ewm_ewm{font-size:14px;margin-top:10px;padding-bottom:8px;border-bottom:1px solid #b7b7b7;padding-left:20px;}
+.ewm_mask{border:1px solid #b7b7b7; width:190px;border-radius:3px; position:absolute; top:0; left:0; z-index:100; background:#fff;}
+.ewm_img{ margin:20px 0;}
+.ewm_img img{ display:block; margin:0 auto;}

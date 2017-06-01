@@ -1,0 +1,59 @@
+/***************************二维码内容******************************/
+.qrhead{ background-color:#000000;height:1rem;line-height:1rem;color:#ffffff;}
+.qr_return{ background:url(../images/qrcode/rr_03.png) no-repeat 0.24rem center; background-size:0.18rem 0.3rem;padding-left:0.6rem;color:#ffffff;font-size:0.32rem;}
+.qr_container{padding-top:1rem;}
+.main1{padding:0.24rem 0.24rem 0 0.24rem;}
+.main1 dl{padding-bottom:0.22rem;}
+.logo_top dt{ width:40%}
+.qr_logo{ display:block; background:url(../images/qrcode/reg_03.png) no-repeat;background-size:2.63rem 0.9rem;padding-left:0.9rem; width:2.63rem; height:0.92rem;}
+.logo_top dd{ text-align:right}
+.qr_app{color:#ff274d;display:block;border:1px solid #ff274d; border-radius:0.06rem;width:1.65rem; box-sizing:border-box; display:inline-block;text-align:center;font-size:0.28rem;height:0.6rem;line-height:0.58rem; }
+.logo_top dd span{color:#888888; display:block; font-size:0.24rem; margin-top:0.12rem; line-height:0.26rem}
+.main2{ padding:0 0.25rem; margin-bottom:0.13rem; border-bottom:1px solid #dcdcdc}
+.main2 h3{ line-height:0.36rem;  padding:0.25rem 0}
+.row { position:relative; padding-bottom:0.25rem}
+.row input{ width:4.5rem; display:block; height:0.8rem; line-height:0.8rem; color:#333; font-size:0.28rem; border:1px solid #c8c8c8;border-radius:0.1rem; padding-left:0.2rem; box-sizing:border-box}
+.row_one .qr_code{ position:absolute; right:0; top:0; width:2rem; border:1px solid #c8c8c8; height:0.8rem; line-height:0.8rem;border-radius:0.1rem;box-sizing:border-box; text-align:center}
+.btn_box .btn_red{ background:#ff274d; width:3.4rem; height:0.8rem; line-height:0.8rem; color:#fff; font-size:0.38rem; text-align:center;border-radius:0.1rem; margin-right:0.35rem}
+.btn_box span{ font-size:0.28rem; color:#646464}
+.btn_box font{color:#ff274d;}
+.bnner{ width:7.2rem; height:4.78rem; overflow:hidden; position:relative}
+.products{ width:1000%; height:4.78rem;}
+.products li{ float:left; width:7.2rem; height:4.78rem;}
+.bnner .page{ text-align:right; position:absolute;bottom:0.26rem; right:0.25rem;font-size:0; line-height:0}
+.bnner .page a{  display:inline-block; background:#606466; width:0.14rem; height:0.14rem; border-radius:50%; margin-right:0.09rem; }
+.bnner .page a.on{ background:#ff274d;}
+.products_text{ padding:0.2rem 0.25rem 0 0.25rem; line-height:0.5rem;}
+.products_text h4{ position:relative; line-height:0.5rem}
+.products_text .price{ font-size:0.4rem; color:#ff274d; width:50%;}
+.products_text font{ position:absolute;   white-space: nowrap; background:url(../images/qrcode/qrcode_03.png) no-repeat 0 center; padding-left:0.3rem; height:0.5rem; background-size:0.25rem 0.23rem; line-height:0.5rem; top:0; right:0.25rem}
+.main4{ border-top:1px solid #cd2a2d;border-bottom:1px solid #dcdcdc; position:relative; padding-top:0.3rem;}
+.main4 h5{ background:url(../images/qrcode/back5_09.png) no-repeat ; width:1.24rem; height:0.24rem; position:absolute; top:-0.12rem; left:50%; margin-left:-0.512rem; background-size:1.24rem 0.24rem;}
+.adtext{ background:#8d6438; width:100%; padding:0.2rem 0.45rem; box-sizing:border-box; font-size:0.32rem; color:#fff; line-height:0.46rem}
+.adtb{ padding:0.13rem 0.2rem}
+.adtb dl{ text-align:center; color:#fff; font-size:0.32rem; margin-bottom:0.06rem;}
+.adtb dt{ width:1.4rem; background:#8d6438;;margin-right:0.06rem;}
+.adtb dl:first-child dt,.adtb dl:first-child dd{ line-height:0.9rem;}
+.adtb dd{ background:#8d6438;}
+.adtb span{ display:table; height:1.15rem; text-align:center; width:100%}
+.adtb font{ display:table-cell; vertical-align:middle; height:1.15rem; line-height:0.45rem}
+.main5{padding:0.15rem 0 0.36rem;margin:0.12rem 0 0 0;border-top:1px solid #dcdcdc;}
+.main5 .qr_bg{background:url(../images/qrcode/reg_18.png) no-repeat center;background-size:7.2rem 4.53rem;height:4.53rem; position:relative;}
+.main5 .qr_bg img{width:2.4rem;height:2.4rem; position:absolute;top:0.99rem;left:2.4rem;display:block;}
+.main5 h3{font-size:0.32rem;text-align:center;padding:0.22rem 0.1rem;}
+.main5 .btn_box{padding:0.15rem 0;text-align:center;}
+.main5 .btn_box .btn_red{line-height:0.8rem;font-size:0.38rem;width:5.6rem;display: inline-block;}
+.mr24{margin:0 0.24rem;height:0;border:0;border-top:1px solid #dcdcdc;}
+
+
+
+
+
+
+
+
+
+
+
+
+
